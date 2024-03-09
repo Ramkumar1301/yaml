@@ -1,0 +1,18 @@
+# key Value pair 
+name:"Ramkumar Nadar"
+name:"Nishant Ghadigaonkar"
+name:"Shubham Tambitkar"
+---
+# list 
+-Mumbai 
+-Delhi
+-Chennai
+----
+#blocke style
+fruits:
+ -apple
+ -banana
+ -fig
+ -Apple
+
+---

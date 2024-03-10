@@ -1,0 +1,32 @@
+# string Variables 
+myself : Ramkumar Nadar 
+fruit : "Apple"
+job: 'Software Developer Trainee'
+
+message: >
+this document created
+while learning yaml 
+
+
+# defining variables
+message: !!str this document created while learning yaml 
+
+number: 76200
+
+# specifying Types
+zero: !!int 0
+positiveNumber: !!int 12
+negativeNumber: !!int -85
+
+not a num: .nan
+
+# floating number
+marks: !!float 566.9
+surname: !!null
+~: this a null key 
+
+exponential number: 6.023E
+
+
+#date and time
+date: !!timezone  2023-12-14
